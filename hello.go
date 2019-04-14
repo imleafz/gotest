@@ -2,7 +2,7 @@ package hello
 
 import "fmt"
 
-func printHello() {
+func PrintHello() {
 	fmt.Printf("Hello, world!\n")
 }
 
