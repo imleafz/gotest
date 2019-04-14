@@ -6,6 +6,3 @@ func printHello() {
 	fmt.Printf("Hello, world!\n")
 }
 
-func main() {
-	printHello()
-}
